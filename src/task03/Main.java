@@ -1,4 +1,4 @@
-package com.company;
+package task03;
 
 public class Main {
 
